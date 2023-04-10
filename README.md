@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about backend development or devops
 - 📫 How to reach me: [email](livingstonemaxwell971@gmail.com) 
 
-[![Stonetech66 github stats](https://github-readme-stats.vercel.app/api?username=Stonetech66&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Stonetech66/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonetech66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
