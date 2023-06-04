@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Livingstone Maxwell. 
+### Hi there 👋, I'm Maxwell Livingstone. 
 
 <!--
 **Stonetech66/Stonetech66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
