@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Devops.
 - 👯 I’m looking to collaborate on any amazing projects. 
 - 💬 Ask me about backend development or devops
-- 📫 How to reach me: [email](livingstonemaxwell971@gmail.com) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonetech66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
