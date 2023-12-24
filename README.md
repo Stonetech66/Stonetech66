@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Maxwell Livingstone. 
+### Hi there! 👋 I'm Maxwell Livingstone, a Backend Engineer.
 
-<!--
-**Stonetech66/Stonetech66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently exploring the world of DevOps.
 
-Here are some ideas to get you started:
--->
-- ⚡ I'm a backend engineer. 
-- 🌱 I’m currently learning about Devops.
-- 👯 I’m looking to collaborate on any amazing projects. 
-- 💬 Ask me about backend development or devops
+🤝 Open to collaboration on exciting projects.
+
+💬 Let's chat about anything related to backend development or DevOps.
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonetech66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Ready to build something awesome together? Let's connect! 🌟
+---
